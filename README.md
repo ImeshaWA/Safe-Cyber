@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 # Safe-Cyber
 This project educates users on cyber attacks, how to recognize them, and stay safe online.
->>>>>>> 5df22c2384d1f8b7989a35d84b153d80e5b308de
+
